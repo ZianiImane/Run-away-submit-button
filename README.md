@@ -27,17 +27,7 @@
 
 <h3 align="center">Fun Form Submit Button (Run Away Submit Button)</h3>
 
-  <p align="center">
-    This is a simple but fun HTML5, CSS, and JS project. It is a form with a submit button that changes positions along the x axis if the length of the password is less than the required length. The submit button will come to a halt once you reach the required length. This project is a person recreation of @Jaay06 popular submit button idea. You can check it out here: shorturl.at/btKYZ
-    <br />
-    <a href="https://github.com/ZianiImane/Run-away-submit-button"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ZianiImane/Run-away-submit-button/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ZianiImane/Run-away-submit-button/issues">Request Feature</a>
-  </p>
-</div>
+  
 
 
 
@@ -48,9 +38,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+    This is a simple but fun HTML5, CSS, and JS project. It is a form with a submit button that changes positions along the x axis if the length of the password is less than the required length. The submit button will come to a halt once you reach the required length. This project is a person recreation of @Jaay06 popular submit button idea. You can check it out here: shorturl.at/btKYZ
+    <br />
+    <a href="https://github.com/ZianiImane/Run-away-submit-button"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/ZianiImane/Run-away-submit-button/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ZianiImane/Run-away-submit-button/issues">Request Feature</a>
+  </p>
+</div>
+<img src='https://github.com/ZianiImane/Run-away-submit-button/blob/main/images/Form.PNG'/>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,19 +64,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -104,7 +93,7 @@ Don't forget to give the project a star! Thanks again!
 
 ZIANI Imane - [@TheRedScarf7](https://twitter.com/TheRedScarf7) - ziani.imane7@gmail.com
 
-Project Link: https://github.com/ZianiImane/Run-away-submit-button](https://github.com/ZianiImane/Run-away-submit-button)
+Project Link: [https://github.com/ZianiImane/Run-away-submit-button](https://github.com/ZianiImane/Run-away-submit-button)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,9 +102,7 @@ Project Link: https://github.com/ZianiImane/Run-away-submit-button](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Joseph](https://twitter.com/itz_jayyy_/status/1575954888370311168?s=20&t=zRRbzhveGYd6Snwf8LBduA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
